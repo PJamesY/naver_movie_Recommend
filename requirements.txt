@@ -1,0 +1,12 @@
+ipython
+jupyter
+numpy
+scipy
+sympy
+pandas
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+tensorflow
+keras
