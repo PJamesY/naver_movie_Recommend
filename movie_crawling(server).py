@@ -54,7 +54,7 @@ class movie_crawling:
         db = MySQLdb.connect(
             "54.180.116.159", # IP (Mysql 서버)
             "root", # Mysql 사용자 계정
-            "1234", # password
+            "1234", # password inits
             "world", # 데이터 베이스 이름
             charset='utf8'# 문자 인코딩 방식
         )
